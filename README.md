@@ -1,2 +1,1 @@
-# countdown-timer
-Created with CodeSandbox
+# Basic template for simple web pages
